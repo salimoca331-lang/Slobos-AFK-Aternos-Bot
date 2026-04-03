@@ -5,9 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+  "server":sal3d.aternos.me",
+    "port": 22271,
     "version": "",
     "try-creative": false
   },
