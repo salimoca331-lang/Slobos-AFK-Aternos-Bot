@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server":sal3d.aternos.me",
+  "server":"sal3d.aternos.me",
     "port": 22271,
     "version": "",
     "try-creative": false
